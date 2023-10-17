@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ronron555 you can call me Ron.
-- 🎥 I’m a film student at Ort Psagot Karmiel.
-- 🌱 I’m currently learning OOP (Object Oriented Programming) fundamentals.
+- 🎥 An alumni of Ort Psagot Film School.
+- 🎬 An online editor at the IDF Spokesperson's unit.
+- 🌱 Currently learning OOP (Object Oriented Programming) fundamentals.
 - 📫 You can reach me at ron@ronyitzhaki.com
 
 <!---
