@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronron555 you can call me Ron.
 - 🎥 An alumni of Ort Psagot Film School.
-- 🎬 An online editor at the IDF Spokesperson's unit.
+- 🎬 A VFX artist at the IDF Spokesperson's unit.
 - 🌱 Currently learning OOP (Object Oriented Programming) fundamentals.
 - 📫 You can reach me at ron@ronyitzhaki.com
 
